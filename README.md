@@ -10,3 +10,7 @@ Project Management, MSC
 
 
 [Linkedin profile](https://linkedin.com/in/tumini-inoma-abbey)
+
+
+
+![Headshot image](/asset/img/headshot.JPG)
