@@ -7,3 +7,6 @@ Project Management, MSC
 **Senior Data Analyst at SBD**
 - project 1
 - project 2 
+
+
+[Linkedin profile](https://linkedin.com/in/tumini-inoma-abbey)
